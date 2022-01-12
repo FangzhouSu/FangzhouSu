@@ -1,8 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  ![Profile View Counter](https://komarev.com/ghpvc/?username=FangzhouSu)
 
-🏫 This is a student @𝑈𝐸𝑆𝑇𝐶.Major in Computer Science.
+🏫 There is a student @[𝑈𝐸𝑆𝑇𝐶](https://github.com/uestcer).Major in Computer Science.
 
-👨‍💻 Working hard to be a Front-end Developer~
+👨‍💻 Working hard to be a Frontend Developer~
 
 📫 qq: 1773279395 wx: UESTCCS
 
