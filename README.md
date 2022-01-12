@@ -2,7 +2,9 @@
 
 🏫 There is a student @[𝑈𝐸𝑆𝑇𝐶](https://github.com/uestcer).Major in Computer Science.
 
-👨‍💻 Working hard to be a Frontend Developer~
+🔭 I’m currently working in [JDT](https://www.jdt.com.cn/) as a Frontend develop trainee~
+
+👨‍💻 Working hard to be an excellent Frontend Developer~
 
 📫 qq: 1773279395 wx: UESTCCS
 
