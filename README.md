@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  ![Profile View Counter](https://komarev.com/ghpvc/?username=FangzhouSu)
+
+🏫 This is a student @𝑈𝐸𝑆𝑇𝐶.Major in Computer Science.
+
+👨‍💻 Working hard to be a Front-end Developer~
+
+📫 qq: 1773279395 wx: UESTCCS
+
+🏠 [CSDN](https://blog.csdn.net/qq_45704942?type=blog) • [JueJin](https://juejin.cn/user/18064101621133) • [LeetCode](https://leetcode-cn.com/u/billsu/)
+
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=FangzhouSu&show_icons=true&theme=radical)
 
 <!--
 **FangzhouSu/FangzhouSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
