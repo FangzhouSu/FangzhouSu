@@ -2,7 +2,7 @@
 
 🏫 There is a student @[𝑈𝐸𝑆𝑇𝐶](https://github.com/uestcer).Major in Computer Science.
 
-🔭 I’m currently working in [MeiTuan](https://waimai.meituan.com/) as a Frontend develop trainee~
+🔭 I’m currently working in [DingTalk](https://www.dingtalk.com/) as a Frontend develop trainee~
 
 👨‍💻 Working hard to be an excellent Frontend Developer~
 
