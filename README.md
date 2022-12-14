@@ -1,8 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  ![Profile View Counter](https://komarev.com/ghpvc/?username=FangzhouSu)
 
-🏫 There is a student @[𝑈𝐸𝑆𝑇𝐶](https://github.com/uestcer).Major in Computer Science.
+🏫 There is a student @[𝑈𝐸𝑆𝑇𝐶](https://www.uestc.edu.cn/) of 23rd class. Major in Computer Science.
 
-🔭 I’m currently working in [DingTalk](https://www.dingtalk.com/) as a Frontend develop trainee~
+🔭 I’m currently working in [DingTalk](https://www.dingtalk.com/) as a Frontend developer~
 
 👨‍💻 Working hard to be an excellent Frontend Developer~
 
