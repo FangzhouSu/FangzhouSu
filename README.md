@@ -1,10 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  ![Profile View Counter](https://komarev.com/ghpvc/?username=FangzhouSu)
 
-🏫 There is a student @[𝑈𝐸𝑆𝑇𝐶](https://www.uestc.edu.cn/) of 23rd class. Major in Computer Science.
+🏫 I graduated from @[𝑈𝐸𝑆𝑇𝐶](https://www.uestc.edu.cn/) in 2023. Major in Computer Science.
 
 🔭 I’m currently working in [DingTalk](https://www.dingtalk.com/) as a Frontend developer~
 
-🌱 I'm constantly building my [front-end knowledge base](https://www.yuque.com/u21204340/preroy/ckicfg), hoping it will bring you some inspiration!
+🌱 I'm currently learning some FE knowledge which can help me write better code!
 
 👨‍💻 Working hard to be an excellent Frontend Developer~
 
