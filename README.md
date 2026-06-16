@@ -1,14 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  ![Profile View Counter](https://komarev.com/ghpvc/?username=FangzhouSu)
 
-🏫 I graduated from @[𝑈𝐸𝑆𝑇𝐶](https://www.uestc.edu.cn/) in 2023. Major in Computer Science.
+🏫 Graduated from @[𝑈𝐸𝑆𝑇𝐶](https://www.uestc.edu.cn/) in 2023. Major in Computer Science.
 
-🔭 I’m currently working in [DingTalk](https://www.dingtalk.com/) as a Frontend developer~
+🔭 Currently working in Bytedance as a Frontend developer.
 
-🌱 I'm currently learning some FE knowledge which can help me write better code!
-
-👨‍💻 Working hard to be an excellent Frontend Developer~
-
-📫 qq: 1773279395 wx: UESTCCS
+📫 qq: 1773279395 wx: little__boat
 
 🏠 [CSDN](https://blog.csdn.net/qq_45704942?type=blog) • [JueJin](https://juejin.cn/user/18064101621133) • [LeetCode](https://leetcode-cn.com/u/billsu/)
 
